@@ -2,3 +2,4 @@ name:tabales ponce joshua
 carrier:TSU redes digitales
 Age:19
 birthday:7/2/
+hobbys:cantar,bailar,jugar videojuegos
